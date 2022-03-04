@@ -1,4 +1,4 @@
-Random Acoustics resources from AI/ML Community.
+# Random Acoustics resources from AI/ML Community.
 * Working with Audio Data for Machine Learning in Python [[link](https://heartbeat.comet.ml/working-with-audio-signals-in-python-6c2bd63b2daf)]
 * Text to Speech [[link](https://github.com/mozilla/TTS)]
 * BERT Explained: A Complete Guide with Theory and Tutorial [[link](https://towardsml.wordpress.com/2019/09/17/bert-explained-a-complete-guide-with-theory-and-tutorial/)]
