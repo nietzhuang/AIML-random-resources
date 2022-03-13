@@ -16,4 +16,3 @@ Overall resources are collected in random, however, the topics are organised as 
   * [Books](https://github.com/nietzhuang/AIML-random-resources/blob/main/Other-Resources/Books.md)
   * [Projects](https://github.com/nietzhuang/AIML-random-resources/blob/main/Other-Resources/Projects.md)
   * [Websites](https://github.com/nietzhuang/AIML-random-resources/blob/main/Other-Resources/Websites.md)
-  * [Others](https://github.com/nietzhuang/AIML-random-resources/blob/main/Other-Resources/Others.md)
