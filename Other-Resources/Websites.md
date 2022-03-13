@@ -1,0 +1,11 @@
+# Random websites related to cources, tutorials from AI/ML Community.
+* NTU course MACHINE LEARNING 2021 SPRING [[link](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php)]
+* A Machine Learning Course with Python [[link](https://github.com/instillai/machine-learning-course)]
+* TensorFlow Course [[link](https://github.com/instillai/TensorFlow-Course)]
+* A technical report on convolution arithmetic in the context of deep learning [[link](https://github.com/vdumoulin/conv_arithmetic)]
+* Jupyter notebooks for the Natural Language Processing with Transformers book [[link](https://github.com/nlp-with-transformers/notebooks)]
+* LeetCode 刷题攻略 [[link](https://github.com/youngyangyang04/leetcode-master)]
+* CNN Explainer [[link](https://poloclub.github.io/cnn-explainer/)]
+* Towards Data Science [[link](https://towardsdatascience.com/)]
+* The Best AI Newsletters [[link](https://medium.com/@andreykurenkov/the-best-ai-newsletters-483dc75134b)]
+* UCI Machine Learning Repository [[link](https://archive.ics.uci.edu/ml/datasets.php)]
