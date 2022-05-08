@@ -1,3 +1,11 @@
 # Random papers from AI/ML Community.
 * Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift [[link](https://arxiv.org/pdf/1502.03167.pdf)]
 * CAN VISION TRANSFORMERS PERFORM CONVOLUTION? [[link](https://arxiv.org/pdf/2111.01353.pdf)]
+* Awesome-Visual-Transformer [[link](https://github.com/dk-liang/Awesome-Visual-Transformer)]
+* Predicting Downstream Model Performance at Early Training Stages: A New Perspective on Neural Network Selection via Edge Dynamics [[link](https://medium.com/syncedreview/predicting-downstream-model-performance-at-early-training-stages-a-new-perspective-on-neural-97fcede9fe1c)]
+* Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer [[link](https://www.microsoft.com/en-us/research/uploads/prod/2021/11/TP5.pdf)]
+* Google Trains a 540B Parameter Language Model With Pathways, Achieving ‘Breakthrough Performance’ [[link](https://medium.com/syncedreview/google-trains-a-540b-parameter-language-model-with-pathways-achieving-breakthrough-performance-a59eb24dcd47)]
+* A survey on recently proposed activation functions for Deep Learning [[link](https://arxiv.org/abs/2204.02921)]
+* Top-AI-Conferences-Paper-with-Code [[link](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code)]
+* Awesome-Speech-Pretraining [[link](https://github.com/ddlBoJack/Awesome-Speech-Pretraining)]
+* Parallel and High-Fidelity Text-to-Lip Generation [[link](https://github.com/Dianezzy/ParaLip)]

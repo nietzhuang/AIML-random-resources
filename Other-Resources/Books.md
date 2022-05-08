@@ -4,3 +4,5 @@
 * Introduction to Probability for Data Science [[link](https://probability4datascience.com)]
 * Neural Networks and Deep Learning: A Textbook [[link](https://dl.uswr.ac.ir/bitstream/Hannan/141305/2/9783319944623.pdf)]
 * Deep Learning Interviews book [[link](https://github.com/BoltzmannEntropy/interviews.ai)]
+* Deep Learning Interviews book: Hundreds of fully solved job interview questions from a wide range of key topics in AI [[link](https://github.com/BoltzmannEntropy/interviews.ai)]
+* ALGORITHMS FOR DECISION MAKING [[link](https://algorithmsbook.com/)]

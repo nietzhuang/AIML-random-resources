@@ -6,3 +6,4 @@
 * Pose with Style: Detail-Preserving Pose-Guided Image Synthesis with Conditional StyleGAN [[link](https://pose-with-style.github.io/)]
 * StyleGAN [[link](https://github.com/NVlabs/stylegan)]
 * Generating Images from Prompts using CLIP and StyleGAN [[link](https://towardsdatascience.com/generating-images-from-prompts-using-clip-and-stylegan-1f9ed495ddda)]
+* Multimodal Image Synthesis and Editing: A Survey [[link](https://deepai.org/publication/multimodal-image-synthesis-and-editing-a-survey)]

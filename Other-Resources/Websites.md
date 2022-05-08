@@ -9,3 +9,8 @@
 * Towards Data Science [[link](https://towardsdatascience.com/)]
 * The Best AI Newsletters [[link](https://medium.com/@andreykurenkov/the-best-ai-newsletters-483dc75134b)]
 * UCI Machine Learning Repository [[link](https://archive.ics.uci.edu/ml/datasets.php)]
+* Neural Networks and Deep Learning [link](http://neuralnetworksanddeeplearning.com])]
+* Git的奇技淫巧 [[link](https://github.com/doggy8088/git-tips)]
+* Paper-Writing-Tips [[link](https://github.com/MLNLP-World/Paper-Writing-Tips#终稿必查投稿前一周一天)]
+* An introduction to transformers and Hugging Face [[link](https://towardsdatascience.com/an-introduction-to-transformers-and-hugging-face-13052ec9d72d)]
+* Google Colab 101 Tutorial with Python — Tips, Tricks, and FAQ [[link](https://towardsai.net/p/programming/google-colab-101-tutorial-with-python-tips-tricks-and-faq-7689bd4d24b4)]
